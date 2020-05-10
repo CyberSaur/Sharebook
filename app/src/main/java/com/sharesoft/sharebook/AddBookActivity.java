@@ -73,6 +73,15 @@ public class AddBookActivity extends AppCompatActivity {
                 //reff.child("book1").setValue(book); Each record replaces one another.
                 reff.child(String.valueOf(maxid+1)).setValue(book);
                 Toast.makeText(AddBookActivity.this,"Data inserted successfully",Toast.LENGTH_LONG).show();
+                etBookname.setText("");
+                etAuthor.setText("");
+                etPublisher.setText("");
+                etISBN.setText("");
+                spnrGenre.setSelected(false);
+                etPrice.setText("");
+                etContact.setText("");
+
+
             }
         });
 
