@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1092449931267",
+    "firebase_url": "https://sharebooktest-165fc.firebaseio.com",
+    "project_id": "sharebooktest-165fc",
+    "storage_bucket": "sharebooktest-165fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092449931267:android:3ee51a30575c3c8897fe36",
+        "android_client_info": {
+          "package_name": "com.sharesoft.sharebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092449931267-bnn4tfn2o3sru8v41a4v362uoal9qlrj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sharesoft.sharebook",
+            "certificate_hash": "06f9bb1d8b9be19f952fd871b3cdf17caace15ec"
+          }
+        },
+        {
+          "client_id": "1092449931267-mblchi0bk2l10h922rocttckbfrbt8h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEqOc0hxEEhFsgau9TNcJsNYOdDdbV6gQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092449931267-mblchi0bk2l10h922rocttckbfrbt8h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
