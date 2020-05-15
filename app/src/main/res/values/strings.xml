@@ -14,6 +14,7 @@
     <string name="hint_email">Email</string>
     <string name="hint_password">Password</string>
     <string name="hint_name">Full name</string>
+    <string name="hint_username">Username</string>
     <string name="btn_login">LOGIN</string>
     <string name="prompt_password">Please enter your password</string>
     <string name="btn_link_to_register">Not a member? Get registered in Sharebook now!</string>
@@ -39,7 +40,7 @@
     <string name="btnBookshelf">Bookshelf</string>
 
     <string name="btnBack">Back</string>
-    <string name="btnBB">BB</string>
+    <string name="btnBB">Book Browser</string>
 
     <string name="etBookname">Bookname</string>
     <string name="etAuthor">Author</string>

@@ -1329,6 +1329,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable bookshell
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -1395,9 +1396,11 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
+drawable ic_email_white_24dp
 drawable ic_facebook_white_22dp
 drawable ic_googleg_color_24dp
 drawable ic_launcher_foreground
+drawable ic_lock_white_24dp
 drawable ic_mail_white_24dp
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
@@ -1407,6 +1410,7 @@ drawable idp_button_background_email
 drawable idp_button_background_facebook
 drawable idp_button_background_google
 drawable idp_button_background_twitter
+drawable log
 drawable messenger_bubble_large_blue
 drawable messenger_bubble_large_white
 drawable messenger_bubble_small_blue
@@ -1431,6 +1435,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable register
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable tw__action_heart_off_default
@@ -1679,6 +1684,7 @@ id com_facebook_smart_instructions_or
 id com_facebook_tooltip_bubble_view_bottom_pointer
 id com_facebook_tooltip_bubble_view_text_body
 id com_facebook_tooltip_bubble_view_top_pointer
+id confirm_pass
 id confirmation_code
 id container
 id content
@@ -1958,6 +1964,7 @@ id up
 id useLogo
 id user_name
 id useremail
+id username
 id video_control_view
 id video_progress_view
 id video_view
@@ -2265,6 +2272,7 @@ string hint_email
 string hint_name
 string hint_new_email
 string hint_password
+string hint_username
 string idp_name_facebook
 string idp_name_google
 string idp_name_twitter

@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Suneth\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
+            "outputFile": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Suneth\\.gradle\\caches\\transforms-2\\files-2.1\\31fd58739820f5f62d86d4d9b881cbaf\\android-image-cropper-2.8.0\\res\\values-id\\values-id.xml",
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\4c170d5fa8351b9629337b2d6cd12f48\\jetified-facebook-android-sdk-4.19.0\\res\\values-id\\values-id.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,217,342,456,555,622,690,747,818,889,989,1086,1159,1232,1316,1419,1483,1550",
+                        "endColumns": "161,124,113,98,66,67,56,70,70,99,96,72,72,83,102,63,66,132",
+                        "endOffsets": "212,337,451,550,617,685,742,813,884,984,1081,1154,1227,1311,1414,1478,1545,1678"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\31fd58739820f5f62d86d4d9b881cbaf\\android-image-cropper-2.8.0\\res\\values-id\\values-id.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -18,16 +28,6 @@
                         "startOffsets": "1683,1798,1854,1909,1995,2077,2165,2228",
                         "endColumns": "114,55,54,85,81,87,62,72",
                         "endOffsets": "1793,1849,1904,1990,2072,2160,2223,2296"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Suneth\\.gradle\\caches\\transforms-2\\files-2.1\\31c01a5223d790ff10d77cd88c586716\\jetified-facebook-android-sdk-4.19.0\\res\\values-id\\values-id.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,217,342,456,555,622,690,747,818,889,989,1086,1159,1232,1316,1419,1483,1550",
-                        "endColumns": "161,124,113,98,66,67,56,70,70,99,96,72,72,83,102,63,66,132",
-                        "endOffsets": "212,337,451,550,617,685,742,813,884,984,1081,1154,1227,1311,1414,1478,1545,1678"
                     }
                 }
             ]

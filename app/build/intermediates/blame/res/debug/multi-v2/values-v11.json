@@ -1,10 +1,21 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Suneth\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Suneth\\.gradle\\caches\\transforms-2\\files-2.1\\d3159fbc9af1013ee39c2b0e803bf7c3\\jetified-tweet-ui-2.3.0\\res\\values-v11\\values-v11.xml",
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\759ef3b924ac3f0621edd4c54b2bc3ff\\tweet-composer-2.3.0\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,565",
+                        "endLines": "9,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "560,1076"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\777a1cae15ef2525e0f62b2aa5b545d8\\jetified-tweet-ui-2.3.0\\res\\values-v11\\values-v11.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,17 +31,6 @@
                         "endLines": "22",
                         "endColumns": "12",
                         "endOffsets": "1341"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Suneth\\.gradle\\caches\\transforms-2\\files-2.1\\759ef3b924ac3f0621edd4c54b2bc3ff\\tweet-composer-2.3.0\\res\\values-v11\\values-v11.xml",
-                    "from": {
-                        "startLines": "2,10",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,565",
-                        "endLines": "9,17",
-                        "endColumns": "12,12",
-                        "endOffsets": "560,1076"
                     }
                 }
             ]

@@ -21,7 +21,7 @@ import com.sharesoft.sharebook.R;
 
 public class SignupActivity extends AppCompatActivity {
 
-    private EditText inputEmail, inputPassword;     //hit option + enter if you on mac , for windows hit ctrl + enter
+    private EditText inputEmail, inputPassword , inputUsername, inputConPassword;     //hit option + enter if you on mac , for windows hit ctrl + enter
     private Button btnSignIn, btnSignUp, btnResetPassword;
     private ProgressBar progressBar;
     private FirebaseAuth auth;
@@ -39,6 +39,8 @@ public class SignupActivity extends AppCompatActivity {
         inputPassword = (EditText) findViewById(R.id.password);
         progressBar = (ProgressBar) findViewById(R.id.progressBar);
         btnResetPassword = (Button) findViewById(R.id.btn_reset_password);
+        inputUsername =(EditText)findViewById(R.id.username);
+        inputConPassword=(EditText)findViewById(R.id.confirm_pass);
 
         btnResetPassword.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -75,6 +77,10 @@ public class SignupActivity extends AppCompatActivity {
                     Toast.makeText(getApplicationContext(), "Password too short, enter minimum 6 characters!", Toast.LENGTH_SHORT).show();
                     return;
                 }
+            //    if(!password.equals(confirm_pass)){
+                  //  Toast.makeText(getApplicationContext(), "Password not match ", Toast.LENGTH_SHORT).show();
+                   // return;
+               // }
 
                 progressBar.setVisibility(View.VISIBLE);
                 //create user
