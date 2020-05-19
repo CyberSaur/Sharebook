@@ -16,6 +16,8 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
 import com.sharesoft.sharebook.R;
 
+import cn.pedant.SweetAlert.SweetAlertDialog;
+
 public class ResetPasswordActivity extends AppCompatActivity {
 
     private EditText inputEmail;
@@ -49,7 +51,10 @@ public class ResetPasswordActivity extends AppCompatActivity {
                 String email = inputEmail.getText().toString().trim();
 
                 if (TextUtils.isEmpty(email)) {
-                    Toast.makeText(getApplication(), "Enter your registered email id", Toast.LENGTH_SHORT).show();
+                    new SweetAlertDialog(ResetPasswordActivity.this,SweetAlertDialog.ERROR_TYPE)
+                            .setTitleText("Error!")
+                            .setContentText("Enter your registered email id")
+                            .show();
                     return;
                 }
 
@@ -59,10 +64,17 @@ public class ResetPasswordActivity extends AppCompatActivity {
                             @Override
                             public void onComplete(@NonNull Task<Void> task) {
                                 if (task.isSuccessful()) {
-                                    Toast.makeText(ResetPasswordActivity.this, "We have sent you instructions to reset your password!", Toast.LENGTH_SHORT).show();
+                                    new SweetAlertDialog(ResetPasswordActivity.this,SweetAlertDialog.WARNING_TYPE)
+                                            .setTitleText("Warning")
+                                            .setContentText("We have sent you instructions to reset your password")
+                                            .show();
                                 } else {
-                                    Toast.makeText(ResetPasswordActivity.this, "Failed to send reset email!", Toast.LENGTH_SHORT).show();
-                                }
+                                    new SweetAlertDialog(ResetPasswordActivity.this,SweetAlertDialog.ERROR_TYPE)
+                                            .setTitleText("Warning")
+                                            .setContentText("Failed to send reset Email")
+                                            .show();
+
+                                  }
 
                                 progressBar.setVisibility(View.GONE);
                             }

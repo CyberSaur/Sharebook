@@ -19,6 +19,8 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.sharesoft.sharebook.MainActivity;
 import com.sharesoft.sharebook.R;
 
+import cn.pedant.SweetAlert.SweetAlertDialog;
+
 public class SignupActivity extends AppCompatActivity {
 
     private EditText inputEmail, inputPassword , inputUsername, inputConPassword;     //hit option + enter if you on mac , for windows hit ctrl + enter
@@ -60,27 +62,49 @@ public class SignupActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
+                String username = inputUsername.getText().toString().trim();
                 String email = inputEmail.getText().toString().trim();
                 String password = inputPassword.getText().toString().trim();
+                String conPassword = inputConPassword.getText().toString().trim();
 
-                if (TextUtils.isEmpty(email)) {
-                    Toast.makeText(getApplicationContext(), "Enter email address!", Toast.LENGTH_SHORT).show();
+                if(TextUtils.isEmpty(username)){
+                    new SweetAlertDialog(SignupActivity.this,SweetAlertDialog.ERROR_TYPE)
+                            .setTitleText("Error!")
+                            .setContentText("Enter Username")
+                            .show();
                     return;
+                }
+                if (TextUtils.isEmpty(email)) {
+                   new SweetAlertDialog(SignupActivity.this,SweetAlertDialog.ERROR_TYPE)
+                           .setTitleText("Error!")
+                           .setContentText("Enter Email Address")
+                           .show();
+                     return;
                 }
 
                 if (TextUtils.isEmpty(password)) {
-                    Toast.makeText(getApplicationContext(), "Enter password!", Toast.LENGTH_SHORT).show();
+
+                    new SweetAlertDialog(SignupActivity.this,SweetAlertDialog.ERROR_TYPE)
+                            .setTitleText("Error!")
+                            .setContentText("Enter Password!")
+                            .show();
                     return;
                 }
 
                 if (password.length() < 6) {
-                    Toast.makeText(getApplicationContext(), "Password too short, enter minimum 6 characters!", Toast.LENGTH_SHORT).show();
+                    new SweetAlertDialog(SignupActivity.this,SweetAlertDialog.ERROR_TYPE)
+                            .setTitleText("Error!")
+                            .setContentText("Password too short, enter minimum 6 characters")
+                            .show();
                     return;
                 }
-            //    if(!password.equals(confirm_pass)){
-                  //  Toast.makeText(getApplicationContext(), "Password not match ", Toast.LENGTH_SHORT).show();
-                   // return;
-               // }
+                if(!password.equals(conPassword)){
+                    new SweetAlertDialog(SignupActivity.this,SweetAlertDialog.ERROR_TYPE)
+                            .setTitleText("Error!")
+                            .setContentText("Password not match ")
+                            .show();
+                   return;
+               }
 
                 progressBar.setVisibility(View.VISIBLE);
                 //create user

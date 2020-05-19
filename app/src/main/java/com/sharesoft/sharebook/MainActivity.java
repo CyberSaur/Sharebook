@@ -22,6 +22,8 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.sharesoft.sharebook.AccountActivity.LoginActivity;
 import com.sharesoft.sharebook.AccountActivity.SignupActivity;
 
+import cn.pedant.SweetAlert.SweetAlertDialog;
+
 public class MainActivity extends AppCompatActivity {
 
     private Button btnChangePassword, btnRemoveUser,
@@ -143,11 +145,19 @@ public class MainActivity extends AppCompatActivity {
                                     @Override
                                     public void onComplete(@NonNull Task<Void> task) {
                                         if (task.isSuccessful()) {
-                                            Toast.makeText(MainActivity.this, "Password is updated, sign in with new password!", Toast.LENGTH_SHORT).show();
+
+                                            new SweetAlertDialog(MainActivity.this,SweetAlertDialog.SUCCESS_TYPE)
+                                                    .setTitleText("Success!")
+                                                    .setContentText("Password is Updated, sign in with new Password ")
+                                                    .show();
                                             signOut();
                                             progressBar.setVisibility(View.GONE);
                                         } else {
-                                            Toast.makeText(MainActivity.this, "Failed to update password!", Toast.LENGTH_SHORT).show();
+
+                                            new SweetAlertDialog(MainActivity.this,SweetAlertDialog.ERROR_TYPE)
+                                                .setTitleText("Success!")
+                                                    .setContentText("Failed to update password!")
+                                                    .show();
                                             progressBar.setVisibility(View.GONE);
                                         }
                                     }
@@ -171,12 +181,21 @@ public class MainActivity extends AppCompatActivity {
                                 @Override
                                 public void onComplete(@NonNull Task<Void> task) {
                                     if (task.isSuccessful()) {
-                                        Toast.makeText(MainActivity.this, "Your profile is deleted:( Create a account now!", Toast.LENGTH_SHORT).show();
+
+                                        new SweetAlertDialog(MainActivity.this,SweetAlertDialog.SUCCESS_TYPE)
+                                                .setTitleText("Success!")
+                                                .setContentText("Your profile is deleted Successfully")
+                                                .show();
+
                                         startActivity(new Intent(MainActivity.this, SignupActivity.class));
                                         finish();
                                         progressBar.setVisibility(View.GONE);
                                     } else {
-                                        Toast.makeText(MainActivity.this, "Failed to delete your account!", Toast.LENGTH_SHORT).show();
+
+                                        new SweetAlertDialog(MainActivity.this,SweetAlertDialog.ERROR_TYPE)
+                                                .setTitleText("Error!")
+                                                .setContentText("Failed to delete your account")
+                                                .show();
                                         progressBar.setVisibility(View.GONE);
                                     }
                                 }

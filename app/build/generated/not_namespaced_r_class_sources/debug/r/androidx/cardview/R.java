@@ -28,17 +28,17 @@ public final class R {
     public static final class color {
         private color() {}
 
-        public static final int cardview_dark_background = 0x7f060035;
-        public static final int cardview_light_background = 0x7f060036;
-        public static final int cardview_shadow_end_color = 0x7f060037;
-        public static final int cardview_shadow_start_color = 0x7f060038;
+        public static final int cardview_dark_background = 0x7f060038;
+        public static final int cardview_light_background = 0x7f060039;
+        public static final int cardview_shadow_end_color = 0x7f06003a;
+        public static final int cardview_shadow_start_color = 0x7f06003b;
     }
     public static final class dimen {
         private dimen() {}
 
-        public static final int cardview_compat_inset_shadow = 0x7f070055;
-        public static final int cardview_default_elevation = 0x7f070056;
-        public static final int cardview_default_radius = 0x7f070057;
+        public static final int cardview_compat_inset_shadow = 0x7f070057;
+        public static final int cardview_default_elevation = 0x7f070058;
+        public static final int cardview_default_radius = 0x7f070059;
     }
     public static final class style {
         private style() {}

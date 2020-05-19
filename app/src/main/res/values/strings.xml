@@ -15,6 +15,7 @@
     <string name="hint_password">Password</string>
     <string name="hint_name">Full name</string>
     <string name="hint_username">Username</string>
+
     <string name="btn_login">LOGIN</string>
     <string name="prompt_password">Please enter your password</string>
     <string name="btn_link_to_register">Not a member? Get registered in Sharebook now!</string>
@@ -31,6 +32,7 @@
     <string name="lbl_forgot_password">Forgot password?</string>
     <string name="forgot_password_msg">We just need your registered Email Id to send password reset instructions.</string>
     <string name="email_id">Email ID</string>
+    <string name="username_id">Username</string>
 
     <string name="imgPhoto">Photo of book</string>
 

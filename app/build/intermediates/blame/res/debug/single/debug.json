@@ -24,12 +24,12 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\777a1cae15ef2525e0f62b2aa5b545d8\\jetified-tweet-ui-2.3.0\\res\\drawable-xxhdpi-v4\\tw__ic_video_pause_pressed.png"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\4c170d5fa8351b9629337b2d6cd12f48\\jetified-facebook-android-sdk-4.19.0\\res\\drawable-mdpi-v4\\com_facebook_tooltip_black_bottomnub.png"
-    },
-    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\dbe493a215c12b16b842e729f6d7f5f8\\appcompat-1.1.0\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\4c170d5fa8351b9629337b2d6cd12f48\\jetified-facebook-android-sdk-4.19.0\\res\\drawable-mdpi-v4\\com_facebook_tooltip_black_bottomnub.png"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -168,6 +168,10 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\777a1cae15ef2525e0f62b2aa5b545d8\\jetified-tweet-ui-2.3.0\\res\\drawable-xhdpi-v4\\tw__ic_inline_share.png"
     },
     {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gray_button_background.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\d28672ec244aaa615fef94ff70bba9c8\\library-1.6.2\\res\\drawable\\gray_button_background.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_close.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\4c170d5fa8351b9629337b2d6cd12f48\\jetified-facebook-android-sdk-4.19.0\\res\\drawable-xhdpi-v4\\com_facebook_close.png"
     },
@@ -190,6 +194,10 @@
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_show_password.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\fd5af5ed399c2fe2609d80691d79245e\\material-1.0.0\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red_button_background.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\d28672ec244aaa615fef94ff70bba9c8\\library-1.6.2\\res\\drawable\\red_button_background.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_googleg_color_24dp.png.flat",
@@ -580,20 +588,20 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\848d57a5cf9d4e74f1f21d2797a64967\\play-services-base-17.1.0\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\fd5af5ed399c2fe2609d80691d79245e\\material-1.0.0\\res\\layout\\design_navigation_item_separator.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tw__btn_composer_tweet.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\759ef3b924ac3f0621edd4c54b2bc3ff\\tweet-composer-2.3.0\\res\\drawable\\tw__btn_composer_tweet.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_tint.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\848d57a5cf9d4e74f1f21d2797a64967\\play-services-base-17.1.0\\res\\color\\common_google_signin_btn_tint.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\fd5af5ed399c2fe2609d80691d79245e\\material-1.0.0\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_googleg_color_24dp.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\dbc7feac69e1f549b16f9aadf0a06655\\jetified-firebase-ui-auth-1.2.0\\res\\drawable-hdpi-v4\\ic_googleg_color_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_tint.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\848d57a5cf9d4e74f1f21d2797a64967\\play-services-base-17.1.0\\res\\color\\common_google_signin_btn_tint.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml.flat",
@@ -680,6 +688,10 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\dbe493a215c12b16b842e729f6d7f5f8\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_green_button_background.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\d28672ec244aaa615fef94ff70bba9c8\\library-1.6.2\\res\\drawable\\green_button_background.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\848d57a5cf9d4e74f1f21d2797a64967\\play-services-base-17.1.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
@@ -692,6 +704,10 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\777a1cae15ef2525e0f62b2aa5b545d8\\jetified-tweet-ui-2.3.0\\res\\drawable-xhdpi-v4\\tw__ic_retweet_dark.png"
     },
     {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_warning_circle.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\d28672ec244aaa615fef94ff70bba9c8\\library-1.6.2\\res\\drawable\\warning_circle.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_in.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\fd5af5ed399c2fe2609d80691d79245e\\material-1.0.0\\res\\anim\\design_snackbar_in.xml"
     },
@@ -702,6 +718,10 @@
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tw__heart_animation_detail_60fps_00025.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\777a1cae15ef2525e0f62b2aa5b545d8\\jetified-tweet-ui-2.3.0\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00025.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_warning_sigh.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\d28672ec244aaa615fef94ff70bba9c8\\library-1.6.2\\res\\drawable\\warning_sigh.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
@@ -1008,6 +1028,10 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\dbe493a215c12b16b842e729f6d7f5f8\\appcompat-1.1.0\\res\\anim\\btn_radio_to_off_mtrl_ring_outer_animation.xml"
     },
     {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blue_button_background.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\d28672ec244aaa615fef94ff70bba9c8\\library-1.6.2\\res\\drawable\\blue_button_background.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_tw__share_email_header.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\a93d4a444d3cfa36063b17e89316a5b1\\twitter-core-2.3.0\\res\\drawable-xxhdpi-v4\\tw__share_email_header.png"
     },
@@ -1052,6 +1076,10 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\4c170d5fa8351b9629337b2d6cd12f48\\jetified-facebook-android-sdk-4.19.0\\res\\drawable\\messenger_button_white_bg_round.xml"
     },
     {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_modal_out.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\d28672ec244aaa615fef94ff70bba9c8\\library-1.6.2\\res\\anim\\modal_out.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_ic_googleg_color_24dp.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\dbc7feac69e1f549b16f9aadf0a06655\\jetified-firebase-ui-auth-1.2.0\\res\\drawable-ldpi-v4\\ic_googleg_color_24dp.png"
     },
@@ -1092,12 +1120,12 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\dbe493a215c12b16b842e729f6d7f5f8\\appcompat-1.1.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tw__bg_media_badge.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\777a1cae15ef2525e0f62b2aa5b545d8\\jetified-tweet-ui-2.3.0\\res\\drawable\\tw__bg_media_badge.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\dbe493a215c12b16b842e729f6d7f5f8\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tw__bg_media_badge.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\777a1cae15ef2525e0f62b2aa5b545d8\\jetified-tweet-ui-2.3.0\\res\\drawable\\tw__bg_media_badge.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_tw__ic_video_replay.png.flat",
@@ -1120,12 +1148,16 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\fd5af5ed399c2fe2609d80691d79245e\\material-1.0.0\\res\\interpolator\\mtrl_fast_out_linear_in.xml"
     },
     {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\dbe493a215c12b16b842e729f6d7f5f8\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_messenger_button_blue_bg_selector.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\4c170d5fa8351b9629337b2d6cd12f48\\jetified-facebook-android-sdk-4.19.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\dbe493a215c12b16b842e729f6d7f5f8\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_error_center_x.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\d28672ec244aaa615fef94ff70bba9c8\\library-1.6.2\\res\\drawable\\error_center_x.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_voice_search_api_material.xml.flat",
@@ -1500,12 +1532,12 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\dbe493a215c12b16b842e729f6d7f5f8\\appcompat-1.1.0\\res\\anim\\abc_tooltip_exit.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tw__heart_animation_detail_60fps_00027.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\777a1cae15ef2525e0f62b2aa5b545d8\\jetified-tweet-ui-2.3.0\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00027.png"
-    },
-    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_tw__ic_seekbar_secondary_bg.9.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\777a1cae15ef2525e0f62b2aa5b545d8\\jetified-tweet-ui-2.3.0\\res\\drawable-xxhdpi-v4\\tw__ic_seekbar_secondary_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tw__heart_animation_detail_60fps_00027.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\777a1cae15ef2525e0f62b2aa5b545d8\\jetified-tweet-ui-2.3.0\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00027.png"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_dark.xml.flat",
@@ -1598,6 +1630,10 @@
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_error_frame_in.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\d28672ec244aaa615fef94ff70bba9c8\\library-1.6.2\\res\\anim\\error_frame_in.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -1900,12 +1936,12 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\dbe493a215c12b16b842e729f6d7f5f8\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_tw__like_action.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\777a1cae15ef2525e0f62b2aa5b545d8\\jetified-tweet-ui-2.3.0\\res\\drawable-v21\\tw__like_action.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\dbe493a215c12b16b842e729f6d7f5f8\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_tw__like_action.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\777a1cae15ef2525e0f62b2aa5b545d8\\jetified-tweet-ui-2.3.0\\res\\drawable-v21\\tw__like_action.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -1978,6 +2014,10 @@
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reset_password.xml.flat",
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\src\\main\\res\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_background_dark.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\d28672ec244aaa615fef94ff70bba9c8\\library-1.6.2\\res\\drawable\\dialog_background_dark.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility.png.flat",
@@ -2350,6 +2390,10 @@
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_tw__composer_logo_blue.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\759ef3b924ac3f0621edd4c54b2bc3ff\\tweet-composer-2.3.0\\res\\drawable-xxhdpi-v4\\tw__composer_logo_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_error_x_in.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\d28672ec244aaa615fef94ff70bba9c8\\library-1.6.2\\res\\anim\\error_x_in.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_checkbox_unchecked_to_checked_mtrl_animation.xml.flat",
@@ -2864,6 +2908,10 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\4c170d5fa8351b9629337b2d6cd12f48\\jetified-facebook-android-sdk-4.19.0\\res\\drawable-xxhdpi-v4\\messenger_bubble_large_blue.png"
     },
     {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_success_bow_roate.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\d28672ec244aaa615fef94ff70bba9c8\\library-1.6.2\\res\\anim\\success_bow_roate.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\dbe493a215c12b16b842e729f6d7f5f8\\appcompat-1.1.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
@@ -2916,12 +2964,12 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\777a1cae15ef2525e0f62b2aa5b545d8\\jetified-tweet-ui-2.3.0\\res\\drawable-mdpi-v4\\tw__ic_tweet_photo_error_light.png"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_tooltip_black_xout.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\4c170d5fa8351b9629337b2d6cd12f48\\jetified-facebook-android-sdk-4.19.0\\res\\drawable-hdpi-v4\\com_facebook_tooltip_black_xout.png"
-    },
-    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_email_white_24dp.xml.flat",
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_tooltip_black_xout.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\4c170d5fa8351b9629337b2d6cd12f48\\jetified-facebook-android-sdk-4.19.0\\res\\drawable-hdpi-v4\\com_facebook_tooltip_black_xout.png"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_twitter_bird_white_24dp.png.flat",
@@ -2964,6 +3012,10 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\4c170d5fa8351b9629337b2d6cd12f48\\jetified-facebook-android-sdk-4.19.0\\res\\drawable-hdpi-v4\\com_facebook_tooltip_blue_background.9.png"
     },
     {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_background.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\d28672ec244aaa615fef94ff70bba9c8\\library-1.6.2\\res\\drawable\\dialog_background.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_facebook_tooltip_bubble.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\4c170d5fa8351b9629337b2d6cd12f48\\jetified-facebook-android-sdk-4.19.0\\res\\layout\\com_facebook_tooltip_bubble.xml"
     },
@@ -2986,6 +3038,10 @@
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\dbe493a215c12b16b842e729f6d7f5f8\\appcompat-1.1.0\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_modal_in.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\d28672ec244aaa615fef94ff70bba9c8\\library-1.6.2\\res\\anim\\modal_in.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
@@ -3114,6 +3170,10 @@
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\dbe493a215c12b16b842e729f6d7f5f8\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_error_circle.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\d28672ec244aaa615fef94ff70bba9c8\\library-1.6.2\\res\\drawable\\error_circle.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_tw__ic_tweet_photo_error_light.png.flat",
@@ -3448,6 +3508,10 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\dbe493a215c12b16b842e729f6d7f5f8\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_alert_dialog.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\d28672ec244aaa615fef94ff70bba9c8\\library-1.6.2\\res\\layout\\alert_dialog.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register_email.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\dbc7feac69e1f549b16f9aadf0a06655\\jetified-firebase-ui-auth-1.2.0\\res\\layout\\activity_register_email.xml"
     },
@@ -3612,12 +3676,12 @@
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\src\\main\\res\\menu\\menu_btwbookbrowser.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\dbe493a215c12b16b842e729f6d7f5f8\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email_white_24dp.png.flat",
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_email_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\dbe493a215c12b16b842e729f6d7f5f8\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tw__heart_animation_detail_60fps_00042.png.flat",
@@ -3666,6 +3730,10 @@
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\fd5af5ed399c2fe2609d80691d79245e\\material-1.0.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_success_bow.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\d28672ec244aaa615fef94ff70bba9c8\\library-1.6.2\\res\\drawable\\success_bow.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
@@ -3820,6 +3888,10 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\dbe493a215c12b16b842e729f6d7f5f8\\appcompat-1.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_success_mask_layout.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\d28672ec244aaa615fef94ff70bba9c8\\library-1.6.2\\res\\anim\\success_mask_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_tw__composer_logo_blue.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\759ef3b924ac3f0621edd4c54b2bc3ff\\tweet-composer-2.3.0\\res\\drawable-mdpi-v4\\tw__composer_logo_blue.png"
     },
@@ -3870,6 +3942,10 @@
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\dbe493a215c12b16b842e729f6d7f5f8\\appcompat-1.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_success_circle.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\d28672ec244aaa615fef94ff70bba9c8\\library-1.6.2\\res\\drawable\\success_circle.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Sharebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_tw__ic_video_replay_pressed.png.flat",

@@ -19,6 +19,8 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.sharesoft.sharebook.MainActivity;
 import com.sharesoft.sharebook.R;
 
+import cn.pedant.SweetAlert.SweetAlertDialog;
+
 public class LoginActivity extends AppCompatActivity {
 
     private EditText inputEmail, inputPassword;
@@ -70,12 +72,21 @@ public class LoginActivity extends AppCompatActivity {
                 final String password = inputPassword.getText().toString();
 
                 if (TextUtils.isEmpty(email)) {
-                    Toast.makeText(getApplicationContext(), "Enter email address!", Toast.LENGTH_SHORT).show();
+
+                    new SweetAlertDialog(LoginActivity.this,SweetAlertDialog.ERROR_TYPE)
+                            .setTitleText("Error!")
+                            .setContentText("Enter Email Address!")
+                            .show();
                     return;
                 }
 
                 if (TextUtils.isEmpty(password)) {
-                    Toast.makeText(getApplicationContext(), "Enter password!", Toast.LENGTH_SHORT).show();
+
+                    new SweetAlertDialog(LoginActivity.this,SweetAlertDialog.ERROR_TYPE)
+                            .setTitleText("Error!")
+                            .setContentText("Enter Password")
+                            .show();
+
                     return;
                 }
 
@@ -95,9 +106,18 @@ public class LoginActivity extends AppCompatActivity {
                                     if (password.length() < 6) {
                                         inputPassword.setError(getString(R.string.minimum_password));
                                     } else {
-                                        Toast.makeText(LoginActivity.this, getString(R.string.auth_failed), Toast.LENGTH_LONG).show();
+
+                                        //Toast.makeText(LoginActivity.this, getString(R.string.auth_failed), Toast.LENGTH_LONG).show();
+                                        new SweetAlertDialog(LoginActivity.this,SweetAlertDialog.ERROR_TYPE)
+                                                .setTitleText("Error!")
+                                                .setContentText(getString(R.string.auth_failed))
+                                                .show();
                                     }
                                 } else {
+                                    new SweetAlertDialog(LoginActivity.this,SweetAlertDialog.SUCCESS_TYPE)
+                                            .setTitleText("Success!!")
+                                            .setContentText("Successfully Logging")
+                                            .show();
                                     Intent intent = new Intent(LoginActivity.this, MainActivity.class);
                                     startActivity(intent);
                                     finish();
